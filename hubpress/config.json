@@ -4,7 +4,12 @@
     "repositoryName": "jeanpul.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Hello World !",
+    "description": "Hello"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
